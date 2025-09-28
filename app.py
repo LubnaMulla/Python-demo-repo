@@ -131,7 +131,7 @@ print(f"Down_payment: ${down_payment}")
 
 tab_number = int(input("Enter the number of your choice to print the multiplication table: "))
 
-# Print the header for the multiplication table
+# Print the header for the multiplication table lubna create
 print("The Multiplication Table of:", tab_number)
 
 # Use a for loop to iterate 10 times and print the table
