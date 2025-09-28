@@ -216,7 +216,7 @@ else:
         print('The value of num1 before swapping: {}'.format(num1))
         print('The value of num2 before swapping: {}'.format(num2))
 
-        # Use temporary variable and swap the values
+        # Use temporary variable and swap the values lubna
         temp = num1
         num1 = num2
         num2 = temp
